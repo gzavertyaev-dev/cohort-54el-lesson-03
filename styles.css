@@ -26,3 +26,27 @@ ul {
   flex-direction: column;
   min-height: 100%;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  height: 120px;
+  border: 2px solid black;
+  padding: 40px;
+}
+
+main {
+  display: flex;
+  flex: 1;
+  background-color: rgb(2, 2, 32);
+  padding: 80px;
+  color: white;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  height: 120px;
+  border: 2px solid black;
+  padding: 40px;
+}
