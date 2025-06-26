@@ -50,3 +50,9 @@ footer {
   border: 2px solid black;
   padding: 40px;
 }
+
+.navigation {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
